@@ -18,13 +18,6 @@ You can also check out my online profiles or contact me:
 
 - Brief overview:  This project aims to perform sentiment analysis on movie reviews using various machine learning classifiers. The sentiment analysis involves predicting whether a movie review expresses a positive or negative sentiment based on its text.
 
-- Data: The dataset used in this project consists of movie reviews with corresponding sentiment labels. The data has been preprocessed to remove non-alphabetic characters, convert text to lowercase, tokenize words, remove stopwords, and lemmatize tokens. The final dataset has been balanced using oversampling techniques.
-
-- Technologies Used : Python, Natural Language Processing (NLP), scikit-learn, NLTK
-
-- Results : Achieved an accuracy of 85% in sentiment classification using a Random Forest classifier.
-
-
 ### [High-School-Announcements-Analysis and-Text-Classification](https://github.com/dspnavyasri/High-School-Announcements-Analysis-and-Text-Classification)
 
 - Brief Overview : Project involves the analysis of announcements made by teachers at a high school. The dataset contains information about the announcements, including the title, content, teacher's name, submission time, and category.
