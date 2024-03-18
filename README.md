@@ -7,6 +7,7 @@ Greetings! My name is Shankara Parameshwari Navya Sri, and I'm excited to share 
 I'm deeply enthusiastic about data science, cloud computing, and virtualization. With a solid foundation in languages like Python, R, and JavaScript, along with expertise in various libraries, frameworks, and developer tools, I'm continually expanding my technical repertoire.
 
 You can read a more detailed description of my background and skillset on my resume here.
+- [My Resume](file:///Users/navyasri/Desktop/Navya_Resume.pdf)
 
 You can also check out my online profiles or contact me:
 
