@@ -11,7 +11,7 @@ You can read a more detailed description of my background and skillset on my res
 
 You can also check out my online profiles or contact me:
 #
-[My LinkedIn Profile](linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula/)
+[My LinkedIn Profile](linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239)
 
 
 Greetings! My name is Shankara Parameshwari Navya Sri, and I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
