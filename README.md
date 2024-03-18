@@ -15,7 +15,7 @@ You can also check out my online profiles or contact me:
 
 ---
 
-### [Movie Review Sentiment Analysis]()
+### [Movie Review Sentiment Analysis](https://github.com/dspnavyasri/Movie-Review-Sentiment-Analysis)
 
 - Brief overview:  This project aims to perform sentiment analysis on movie reviews using various machine learning classifiers. The sentiment analysis involves predicting whether a movie review expresses a positive or negative sentiment based on its text.
 
