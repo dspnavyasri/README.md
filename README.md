@@ -11,30 +11,21 @@ You can read a more detailed description of my background and skillset on my res
 
 You can also check out my online profiles or contact me:
 
-linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239
-
-dspnavya01@gmail.com
-
-
-# Data Engineer Portfolio
 
 Greetings! My name is Shankara Parameshwari Navya Sri, and I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
 
-## Introduction
+---
 
-Hey there,
+### Project 1: Movie Review Sentiment Analysis
 
-I'm a final semester student pursuing a Master of Professional Science in Data Science at the University of Maryland, Baltimore County. My passion lies in becoming a Data Engineer, and I'm excited to share my journey and projects with you here.
+- **Overview**: This project aims to perform sentiment analysis on movie reviews using various machine learning classifiers. The sentiment analysis involves predicting whether a movie review expresses a positive or negative sentiment based on its text.
 
-## Repository Overview
+- **Data**: The dataset used in this project consists of movie reviews with corresponding sentiment labels. The data has been preprocessed to remove non-alphabetic characters, convert text to lowercase, tokenize words, remove stopwords, and lemmatize tokens. The final dataset has been balanced using oversampling techniques.
 
-This repository serves as a showcase of my projects in the field of data engineering and analytics. Each project demonstrates different aspects of my skills and expertise gained throughout my academic journey and self-development exercises.
+- **Technologies Used**: Python, Natural Language Processing (NLP), scikit-learn, NLTK
 
-## Project Catalog
+- **Results**: Achieved an accuracy of 85% in sentiment classification using a Random Forest classifier.
 
-### 1. Movie Review Sentiment Analysis
-
-**Overview:** This project aims to perform sentiment analysis on movie reviews using various machine learning classifiers. The sentiment analysis involves predicting whether a movie review expresses a positive or negative sentiment based on its text.
 
 ### 2. High-School-Announcements-Analysisand-Text-Classification
 
