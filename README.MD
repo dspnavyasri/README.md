@@ -2,7 +2,7 @@
 Hey there,
 
 
-Greetings! My name is Shankara Parameshwari Navya Sri, and I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
+Greetings! My name is Shankara Parameshwari Navya Sri, and I'm excited to share my still developing  portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/engineering courses or self development exercises, each of which covers essential skills and techniques.
 
 I'm deeply enthusiastic about data science, cloud computing, and virtualization. With a solid foundation in languages like Python, R, and JavaScript, along with expertise in various libraries, frameworks, and developer tools, I'm continually expanding my technical repertoire.
 
